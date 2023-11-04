@@ -11,7 +11,7 @@ To use the model and analysis script, follow these steps:
 
 1. Clone this repository.
 2. Create a virtual environment.
-3. Install the necessary dependencies essential for running the program. Utilize the 'requirements.txt' file to achieve this. Execute the following command to install the dependencies:
+3. Install the necessary dependencies essential for running the program. Install the 'requirements.txt' file to achieve this. Execute the following command to install the dependencies:
    ```bash
    pip install -r requirements.txt
 4. Download the trained model weight from OneDrive. Click the link to access and download the file: [Download Model Weight (.h5)](https://1drv.ms/u/s!AjGtoQ7qXg4uzmRKxhIYt9Kzjv52?e=WKx4wn)
