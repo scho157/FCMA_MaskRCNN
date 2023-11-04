@@ -1,0 +1,10 @@
+tensorflow==2.9.1
+opencv-python
+pandas 
+scikit-image 
+imgaug 
+scikit-learn 
+requests 
+pycocotools
+tqdm
+ipykernel
