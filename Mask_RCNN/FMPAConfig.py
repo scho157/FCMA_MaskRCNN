@@ -17,9 +17,9 @@ from mrcnn.config import Config
 """
 Training Configurations for the Dataset
 """
-class FCMAConfig(Config):
+class FMPAConfig(Config):
 
-    NAME = "FCMA"
+    NAME = "FMPA"
 
     IMAGES_PER_GPU = 1
 
@@ -62,7 +62,7 @@ class FCMAConfig(Config):
 """
 Inference Configurations for the Dataset
 """
-class InferenceConfig(FCMAConfig):
+class InferenceConfig(FMPAConfig):
     GPU_COUNT = 1
     IMAGES_PER_GPU = 1
 
